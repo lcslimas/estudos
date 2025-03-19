@@ -1,0 +1,2 @@
+Segurança Cibernética é a prática de garantir a **confidencialidade, a integridade e a disponibilidade** das informações, protegendo redes, dispositivos, pessoas e dados contra o acesso não autorizado ou a exploração criminosa
+Essa área tende a crescer em 30% até o final da década.

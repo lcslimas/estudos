@@ -1,0 +1,3 @@
+Evitando problemas de segurança evita a diminuição do valor de mercado da empresa que sofreu um ataque, pois os consumidores não confiaram tanto mais nela, afetando reputação da empresa.
+
+Evitar que seja vazado **(PII) Personally Identifiable information** são formas de evitar que informações pessoais dos usuários vazem. Além das PII, temos **(SPII) Sensitive Personally Identifiable Information**, nesse caso pode incluir informações médicas ou financeiras e dados biométricos, como reconhecimento facial. Se SPII for roubado é bem mais danoso do que PII.

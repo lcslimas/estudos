@@ -1,0 +1,2 @@
+##### Fiz lógica para verificar se a empresa na sessão do usuário foi modificada em outra aba.
+- Guardado na memória, divergencia na empresa na memória do front com do back-end. Talvez stateless ajudaria nisso.

@@ -1,0 +1,1 @@
+É uma forma de busca em que será buscado em todos os elementos da estrutura a fim de encontrar um elemento escolhido anteriormente. Ex: IndexOf do ecmascript ou hasAny das linguagem. Eficiencia de O(n).

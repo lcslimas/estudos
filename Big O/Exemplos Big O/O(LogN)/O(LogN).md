@@ -1,0 +1,1 @@
+Se a cada etapa os inputs(N) são divididos em 2, então temos algo como O(LogN) ou O(NlogN). Exemplo de uso: [[Binary Search]], **esse tipo de busca ocorre em dados ordenados**.

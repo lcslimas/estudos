@@ -1,0 +1,4 @@
+Situação;
+Tarefa;
+Ação;
+Resultado;

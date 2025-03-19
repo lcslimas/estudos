@@ -1,0 +1,1 @@
+Responsável por identificar, analisar e preservar evidencias com redes computadores e dispositivos eletrônicos.
